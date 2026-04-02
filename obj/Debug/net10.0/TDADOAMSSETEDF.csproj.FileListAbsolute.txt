@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\TDADOAMSSETEDF\TDADOAMSSETEDF\bin\Debug\net10.0\TDADOAMSSETEDF.exe
+C:\Users\Asus\source\repos\TDADOAMSSETEDF\TDADOAMSSETEDF\bin\Debug\net10.0\TDADOAMSSETEDF.deps.json
+C:\Users\Asus\source\repos\TDADOAMSSETEDF\TDADOAMSSETEDF\bin\Debug\net10.0\TDADOAMSSETEDF.runtimeconfig.json
+C:\Users\Asus\source\repos\TDADOAMSSETEDF\TDADOAMSSETEDF\bin\Debug\net10.0\TDADOAMSSETEDF.dll
+C:\Users\Asus\source\repos\TDADOAMSSETEDF\TDADOAMSSETEDF\bin\Debug\net10.0\TDADOAMSSETEDF.pdb
+C:\Users\Asus\source\repos\TDADOAMSSETEDF\TDADOAMSSETEDF\obj\Debug\net10.0\TDADOAMSSETEDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\TDADOAMSSETEDF\TDADOAMSSETEDF\obj\Debug\net10.0\TDADOAMSSETEDF.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TDADOAMSSETEDF\TDADOAMSSETEDF\obj\Debug\net10.0\TDADOAMSSETEDF.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TDADOAMSSETEDF\TDADOAMSSETEDF\obj\Debug\net10.0\TDADOAMSSETEDF.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TDADOAMSSETEDF\TDADOAMSSETEDF\obj\Debug\net10.0\TDADOAMSSETEDF.dll
+C:\Users\Asus\source\repos\TDADOAMSSETEDF\TDADOAMSSETEDF\obj\Debug\net10.0\refint\TDADOAMSSETEDF.dll
+C:\Users\Asus\source\repos\TDADOAMSSETEDF\TDADOAMSSETEDF\obj\Debug\net10.0\TDADOAMSSETEDF.pdb
+C:\Users\Asus\source\repos\TDADOAMSSETEDF\TDADOAMSSETEDF\obj\Debug\net10.0\TDADOAMSSETEDF.genruntimeconfig.cache
+C:\Users\Asus\source\repos\TDADOAMSSETEDF\TDADOAMSSETEDF\obj\Debug\net10.0\ref\TDADOAMSSETEDF.dll
